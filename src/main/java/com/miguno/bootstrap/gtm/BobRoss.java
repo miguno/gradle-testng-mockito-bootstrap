@@ -7,10 +7,18 @@ import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.ImmutableSet.Builder;
 
 /**
- * A simple class that implements a few features that we can write unit tests for. It uses Google Guava for the sole
- * reason that we have an external compile-time dependency in this bootstrap project.
  * 
- * To make the example code simpler this class does not follow pure OO style. (If it did, we would create a Painting
+ * testing master
+ * testing helloworld
+ * tetsing 1
+ * testing 2gg
+ * yyy
+ * 
+ * testint 3
+ * yyyy
+ * 
+ * shailendr
+ * kumarggg
  * object from painting elements and let our painter paint that painting object, for instance.)
  * 
  * "And from all of us here I'd like to wish you happy painting and God bless, my friend."
